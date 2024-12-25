@@ -1,7 +1,6 @@
 [
   {
     "images": [
-      "https://drive.google.com/uc?export=view&id=15gtkSILsm_gTyPjnUCbpJ5gbS8Mgud-e",
       "https://drive.google.com/uc?export=view&id=15gtkSILsm_gTyPjnUCbpJ5gbS8Mgud-e"
     ],
     "name": "AKASH BHAWAN",
@@ -102,7 +101,47 @@
     ],
     "name": "BE Lab",
     "tag": "Lab",
-    "description": "### Basic Electronics Engineering Lab\n- For 1st year\n- Great viva preparation"
+    "description": "### Basic Electronics Engineering Lab\n- For 1st year\n- Great viva preparation\n- Location: Near the main gate or dome or central library"
+  },
+  {
+    "images": [
+      "https://drive.google.com/uc?export=view&id=11IsRQegCGts4NUawgYA1YOdkoFk7D_dd"
+    ],
+    "name": "BEE Lab",
+    "tag": "Lab",
+    "description": "### Basic Electrical Engineering Lab\n- For 1st year\n- Make your presence known to teachers\n- Location: Near the park, turn right"
+  },
+  {
+    "images": [
+      "https://drive.google.com/uc?export=view&id=1cadV1d-62Xt2fBAwXrnazXdVWWLDhcAd"
+    ],
+    "name": "Civil Lab",
+    "tag": "Lab",
+    "description": "### Civil Engineering Lab\n- For 1st year\n- Location: Move inward from BEE lab towards the hall, then take the 2nd left"
+  },
+  {
+    "images": [
+      "https://drive.google.com/uc?export=view&id=1R2qthp6hLp4B5Y9NuDSYrSXT_qihXY4u"
+    ],
+    "name": "Chemistry Lab",
+    "tag": "Lab",
+    "description": "### Chemistry Lab\n- For 1st year\n- Group-based experiments (4 members/group)\n- Location: Near room 206, take a straight path towards the stairs"
+  },
+  {
+    "images": [
+      "https://drive.google.com/uc?export=view&id=1tVNlS85IZ3aCN-emLkSLQe0jx6aV2_Lq"
+    ],
+    "name": "Physics Lab",
+    "tag": "Lab",
+    "description": "### Physics Lab\n- For 1st year\n- Marks based on viva and semester exams\n- Location: Opposite Chemistry Lab"
+  },
+  {
+    "images": [
+      "https://drive.google.com/uc?export=view&id=1FwrQfohuEjUE-pav6yRwhE3FjcE0Hu3d"
+    ],
+    "name": "English Lab",
+    "tag": "Lab",
+    "description": "### English Lab\n- AC Lab\n- Minimal classes\n- Records usually not checked"
   },
   {
     "images": [
@@ -110,6 +149,38 @@
     ],
     "name": "Library",
     "tag": "Library",
-    "description": "### Library\n- Best place to study\n- Has AC, quiet and a great environment"
+    "description": "### Library\n- Best study environment\n- Air-conditioned and quiet\n- Location: Near the dome/main gate"
+  },
+  {
+    "images": [
+      "https://drive.google.com/uc?export=view&id=1grFwlozBgZVPvP8osYHGFMnp_YHOWXSb"
+    ],
+    "name": "Badminton court",
+    "tag": "Other",
+    "description": "### Badminton Court\n- Location: Old building"
+  },
+  {
+    "images": [
+      "https://drive.google.com/uc?export=view&id=19Ye3jiuFy07olYaSPStEirGy5QAx9zMJ"
+    ],
+    "name": "Room 206",
+    "tag": "Other",
+    "description": "### Room 206\n- Classroom for many subjects\n- Location: Old building"
+  },
+  {
+    "images": [
+      "https://drive.google.com/uc?export=view&id=16CZwKnp5ISbioLg_D7ZQ_5v6zwZFHSJV"
+    ],
+    "name": "Academic building",
+    "tag": "Other",
+    "description": "### Academic Building\n- For admissions and academic queries\n- Staff is straightforward"
+  },
+  {
+    "images": [
+      "https://drive.google.com/uc?export=view&id=1rd8EBanwKtbIhoDjs94XrQfBwR8D-KGR"
+    ],
+    "name": "Park",
+    "tag": "Other",
+    "description": "### Park\n- Relaxation spot on campus"
   }
 ]
