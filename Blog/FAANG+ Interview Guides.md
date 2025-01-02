@@ -7,25 +7,25 @@
 This is a list of publicly available interview guides from these companies.
 
 ### Microsoft  
-🔗 [Microsoft Interview Guide](https://lnkd.in/eA69HGkF)
+🔗 [Microsoft Interview Guide](https://careers.microsoft.com/v2/global/en/hiring-tips/interview-tips.html)
 
 ### Google  
-🔗 [Google Interview Guide](https://lnkd.in/eTmtDJrZ)
+🔗 [Google Interview Guide](https://www.google.com/about/careers/applications/interview-tips/)
 
 ### Uber  
-🔗 [Uber Interview Guide](https://lnkd.in/equ-Bqfk)
+🔗 [Uber Interview Guide](https://www.uber.com/us/en/careers/interviewing/)
 
 ### Apple  
-🔗 [Apple Interview Guide](https://lnkd.in/eQwvT2Ad)
+🔗 [Apple Interview Guide](https://www.apple.com/careers/us/interview_tips.html)
 
 ### Meta  
-🔗 [Meta Interview Guide](https://lnkd.in/e-SPVNfv)
+🔗 [Meta Interview Guide](https://www.metacareers.com/swe-prep-onsite/)
 
 ### Amazon  
-🔗 [Amazon Interview Guide](https://lnkd.in/ed9vUHbU)
+🔗 [Amazon Interview Guide](https://www.amazon.jobs/content/en/how-we-hire/interviewing-at-amazon)
 
 ### Spotify  
-🔗 [Spotify Interview Guide](https://lnkd.in/eA8gVRtV)
+🔗 [Spotify Interview Guide](https://www.lifeatspotify.com/how-we-hire)
 
 ---
 
