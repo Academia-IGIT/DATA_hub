@@ -1,0 +1,51 @@
+[
+  {
+    "name": "CE",
+    "items": [
+      {
+        "name": "CE Material Module-III",
+        "url": "https://drive.google.com/file/d/1hY1QhNm_beWryLywP9sMSPNEHKR4Zop_/view?usp=drive_link"
+      },
+      {
+        "name": "CE Material Module-IV",
+        "url": "https://drive.google.com/file/d/1ukntP5hsXIg6KQqDHFhJpz-GeCD5hYKf/view?usp=drive_link"
+      },
+      {
+        "name": "CE Material_ Module-I (1)",
+        "url": "https://drive.google.com/file/d/1aGYNea_1HGg-Yu94lAzg_3qdgKjX-xuu/view?usp=drive_link"
+      },
+      {
+        "name": "CE Material_Module-II",
+        "url": "https://drive.google.com/file/d/1_demHssBVzAYaJLRLyXAKxH5kXTl1-YE/view?usp=drive_link"
+      }
+    ]
+  },
+  {
+    "name": "DSP",
+    "items": [
+      {
+        "name": "DSP",
+        "url": "https://drive.google.com/file/d/1ZJgKewB1DWPJoE2v4BEdOdmq20tOiz9w/view?usp=drive_link"
+      }
+    ]
+  },
+  {
+    "name": "EEM",
+    "items": [
+      {
+        "name": "EEM 1",
+        "url": "https://drive.google.com/file/d/1OURkDG_vBM6sL-nZsJ7-QNGoBXiDUIeC/view?usp=drive_link"
+      }
+    ]
+  },
+  {
+    "name": "VLSI",
+    "items": [
+      {
+        "name": "VLSI",
+        "url": "https://drive.google.com/file/d/1JsVvaWLsAPeOhVIl8niRPKCbsCwi0Cie/view?usp=drive_link"
+      }
+    ]
+  }
+  ]
+  
