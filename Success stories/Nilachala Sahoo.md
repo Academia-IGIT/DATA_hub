@@ -1,12 +1,12 @@
 ---
 name: Nilachala Sahoo
-image_url: https://media.licdn.com/dms/image/v2/D5603AQH6g8WOfjKj4A/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1713977641519?e=1743638400&v=beta&t=xFm-fbh1mz9JRpU2Zhyy3OGBPb3n85Y9yvwjhFURhYw
+image_url: https://media.licdn.com/dms/image/v2/D5603AQFMSnUF3IrjIg/profile-displayphoto-shrink_400_400/B56ZSnGihrHQAk-/0/1737970298717?e=1743638400&v=beta&t=0OSMd2OFVV9GPNIpZPbXBBsXKJrAjIj8_j2jP9f-9xc
 company: NI
 ---
 
 # Nilachala Sahoo's Journey  
 
-![Nilachala Sahoo](https://media.licdn.com/dms/image/v2/D5603AQH6g8WOfjKj4A/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1713977641519?e=1743638400&v=beta&t=xFm-fbh1mz9JRpU2Zhyy3OGBPb3n85Y9yvwjhFURhYw)  
+![Nilachala Sahoo](https://media.licdn.com/dms/image/v2/D5603AQFMSnUF3IrjIg/profile-displayphoto-shrink_400_400/B56ZSnGihrHQAk-/0/1737970298717?e=1743638400&v=beta&t=0OSMd2OFVV9GPNIpZPbXBBsXKJrAjIj8_j2jP9f-9xc)  
 
 ---
 
