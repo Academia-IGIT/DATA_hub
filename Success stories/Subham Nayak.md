@@ -64,5 +64,3 @@ We had the privilege to speak with Subham Nayak about his inspiring professional
 
 9. **Final Thoughts**:  
    "Everything you do in college and the friends you make are going to stay with you forever."  
-
-
