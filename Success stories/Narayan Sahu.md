@@ -1,13 +1,13 @@
 ---
 name: Narayan Sahu
-image_url: https://media.licdn.com/dms/image/v2/D5603AQEzo5ru2wWeSw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1705520827872?e=1744243200&v=beta&t=FFL-tzz7vcu_s5dF4UaTnniKgQBnHPijo7xTWWs4MCE
+image_url: https://media.licdn.com/dms/image/v2/D5603AQFbJT7MYp4plg/profile-displayphoto-shrink_400_400/B56ZVRpknoHsAg-/0/1740831608644?e=1746662400&v=beta&t=FaReVQY2hXNBhNqyLAZ7HcxKLx88IEMIaRhZLWLJ9iI
 company: Oracle
 
 ---
 
 # Narayan Sahu's Journey
 
-![Narayan Sahu](https://media.licdn.com/dms/image/v2/D5603AQEzo5ru2wWeSw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1705520827872?e=1744243200&v=beta&t=FFL-tzz7vcu_s5dF4UaTnniKgQBnHPijo7xTWWs4MCE)
+![Narayan Sahu](https://media.licdn.com/dms/image/v2/D5603AQFbJT7MYp4plg/profile-displayphoto-shrink_400_400/B56ZVRpknoHsAg-/0/1740831608644?e=1746662400&v=beta&t=FaReVQY2hXNBhNqyLAZ7HcxKLx88IEMIaRhZLWLJ9iI)
 
 ## Education
 **Indira Gandhi Institute of Technology (IGIT), Sarang**  
