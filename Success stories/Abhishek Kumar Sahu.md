@@ -1,6 +1,6 @@
 ---
 name: Abhishek Kumar Sahu
-image_url: https://media.licdn.com/dms/image/v2/D5603AQHEsqIZsqpTOQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1707782970191?e=1742428800&v=beta&t=INFnr5OwL9WAdbTlRxrhsXKd8ZGkc2SXFIkPpCXnzq8
+image_url: https://raw.githubusercontent.com/Academia-IGIT/DATA_hub/main/img/Abhishek%20Kumar%20Sahu.jpg
 company: Amazon
 ---
 
@@ -9,7 +9,7 @@ company: Amazon
 
 # Abhishek Kumar Sahu's Journey
 
-![Abhishek Kumar Sahu](https://media.licdn.com/dms/image/v2/D5603AQHEsqIZsqpTOQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1707782970191?e=1742428800&v=beta&t=INFnr5OwL9WAdbTlRxrhsXKd8ZGkc2SXFIkPpCXnzq8)
+![Abhishek Kumar Sahu](https://raw.githubusercontent.com/Academia-IGIT/DATA_hub/main/img/Abhishek%20Kumar%20Sahu.jpg)
 
 ## Education  
 **Indira Gandhi Institute of Technology (IGIT), Sarang**  
