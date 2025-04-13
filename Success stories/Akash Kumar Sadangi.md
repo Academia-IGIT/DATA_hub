@@ -1,12 +1,12 @@
 ---
 name: Akash Kumar Sadangi
-image_url: https://media.licdn.com/dms/image/v2/D4D03AQGoAeSd5VsoAw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1690326027291?e=1742428800&v=beta&t=xmA75mE8C4ero0qG0HkupmMtH0fR4WY9IzZdiLjewbU
+image_url: https://raw.githubusercontent.com/Academia-IGIT/DATA_hub/main/img/Akash%20Kumar%20Sadangi.jpg
 company: KPMG
 ---
 
 # Akash Kumar Sadangi's Journey  
 
-![Akash Kumar Sadangi](https://media.licdn.com/dms/image/v2/D4D03AQGoAeSd5VsoAw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1690326027291?e=1742428800&v=beta&t=xmA75mE8C4ero0qG0HkupmMtH0fR4WY9IzZdiLjewbU)  
+![Akash Kumar Sadangi](https://raw.githubusercontent.com/Academia-IGIT/DATA_hub/main/img/Akash%20Kumar%20Sadangi.jpg)  
 
 ## Education  
 **Indira Gandhi Institute of Technology (IGIT), Sarang**  
