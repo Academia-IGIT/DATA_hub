@@ -1,12 +1,12 @@
 ---
 name: Priyabrata Pattanaik
-image_url: https://media.licdn.com/dms/image/v2/C5603AQFqOVs7MaM7Fw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1605205014036?e=1743638400&v=beta&t=tPsDQ8gBZ0HoFdwn8_fQUD0OUVkNuGNNImg8yvCAQSM
+image_url: https://raw.githubusercontent.com/Academia-IGIT/DATA_hub/main/img/Priyabrata%20Pattanaik.jpg
 company: IBM
 ---
 
 # Priyabrata Pattanaik's Journey  
 
-![Priyabrata Pattanaik](https://media.licdn.com/dms/image/v2/C5603AQFqOVs7MaM7Fw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1605205014036?e=1743638400&v=beta&t=tPsDQ8gBZ0HoFdwn8_fQUD0OUVkNuGNNImg8yvCAQSM)  
+![Priyabrata Pattanaik](https://raw.githubusercontent.com/Academia-IGIT/DATA_hub/main/img/Priyabrata%20Pattanaik.jpg)  
 
 ---
 
