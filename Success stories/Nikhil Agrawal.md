@@ -1,12 +1,12 @@
 ---
 name: Nikhil Agrawal
-image_url: https://media.licdn.com/dms/image/v2/C5103AQEHw3jlpWPCcw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1586845700432?e=1746662400&v=beta&t=Ofbz6qF7x8Lv0C_mnXRur8XDyXP8wkAVaBEp-DzvhoA
+image_url: https://raw.githubusercontent.com/Academia-IGIT/DATA_hub/main/img/Nikhil%20Agrawal.jpg
 company: Amazon
 ---
 
 # Nikhil Agarwal's Journey
 
-![Nikhil Agarwal](https://media.licdn.com/dms/image/v2/C5103AQEHw3jlpWPCcw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1586845700432?e=1746662400&v=beta&t=Ofbz6qF7x8Lv0C_mnXRur8XDyXP8wkAVaBEp-DzvhoA)
+![Nikhil Agarwal](https://raw.githubusercontent.com/Academia-IGIT/DATA_hub/main/img/Nikhil%20Agrawal.jpg)
 
 ## Education
 **Indira Gandhi Institute of Technology (IGIT), Sarang**  
