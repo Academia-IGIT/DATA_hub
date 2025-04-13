@@ -1,12 +1,12 @@
 ---
 name: Sidharth Nayak
-image_url: https://media.licdn.com/dms/image/v2/D5603AQFohml1uVuXPQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1719694157720?e=1742428800&v=beta&t=-HJ3Pe4UMJmBdeFresV0aKo3tb5mKJuKgPT480HlBxA
+image_url: https://raw.githubusercontent.com/Academia-IGIT/DATA_hub/main/img/Sidharth%20Nayak.jpg
 company: NVIDIA
 ---
 
 # Sidharth Nayak's Journey
 
-![Sidharth Nayak](https://media.licdn.com/dms/image/v2/D5603AQFohml1uVuXPQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1719694157720?e=1742428800&v=beta&t=-HJ3Pe4UMJmBdeFresV0aKo3tb5mKJuKgPT480HlBxA)
+![Sidharth Nayak](https://raw.githubusercontent.com/Academia-IGIT/DATA_hub/main/img/Sidharth%20Nayak.jpg)
 
 ## Education
 1. **Indira Gandhi Institute of Technology (IGIT), Sarang**  
