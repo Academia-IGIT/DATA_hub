@@ -1,12 +1,12 @@
 ---
 name: Subham Nayak
-image_url: https://media.licdn.com/dms/image/v2/D5603AQH1dxFVih4IJg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1722750785727?e=1745452800&v=beta&t=pPkrOD6k1255DUxylpPiROfyZYjwFeKk9HFt5DctQ4Q
+image_url: https://raw.githubusercontent.com/Academia-IGIT/DATA_hub/main/img/Subham%20Nayak.jpg
 company: Qualcomm
 ---
 
 # Subham Nayak's Journey
 
-![Subham Nayak](https://media.licdn.com/dms/image/v2/D5603AQH1dxFVih4IJg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1722750785727?e=1745452800&v=beta&t=pPkrOD6k1255DUxylpPiROfyZYjwFeKk9HFt5DctQ4Q)
+![Subham Nayak](https://raw.githubusercontent.com/Academia-IGIT/DATA_hub/main/img/Subham%20Nayak.jpg)
 
 ## Education  
 **International Institute of Information Technology Bangalore**  
